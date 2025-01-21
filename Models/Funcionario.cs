@@ -1,3 +1,7 @@
+using System.ComponentModel.DataAnnotations.Schema;
+using Azure;
+using Azure.Data.Tables;
+
 namespace TrilhaNetAzureDesafio.Models
 {
     public class Funcionario
